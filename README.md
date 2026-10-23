@@ -10,6 +10,10 @@ Automatically downloads free albums from bandcamp. Usding `Tampermonkey` and `Go
 4. Open `Utilities` menu.
 5. Insert link: `https://raw.githubusercontent.com/imastarshine/bdcampnaut/refs/heads/main/bc-free-grabber.user.js` to Import URL Textarea and press `Import`.
 
+OR
+
+1. After installing script follow the [link](https://github.com/imastarshine/bdcampnaut/raw/refs/heads/main/bc-free-grabber.user.js) and the script installation page will open automatically.
+
 ## Deployment
 
 1. Open [Google Apps Script](https://script.google.com/home) and create a **New project**.
